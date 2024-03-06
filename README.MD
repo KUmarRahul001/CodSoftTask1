@@ -30,7 +30,7 @@ To use this repository, follow these steps:
 1. Clone the repository to your local machine:
 
 ```
-git clone https://github.com/KumarRahulProgrammer/CodSoft.git
+git clone https://github.com/KumarRahulProgrammer/CodSoftTask1.git
 ```
 
 2. Install the required dependencies:
